@@ -1,7 +1,7 @@
 // Typing Animation
 
 let typed = new Typed(".typing", {
-    strings: ["", "Web Developer", "Graphic Designer", "Web Designer", "SEO Export"],
+    strings: ["", "Web Scraper", "Data Engineer", "Data Analytics", "Data Scientist"],
     typeSpeed: 100,
     BackSpeed: 60,
     loop: true
